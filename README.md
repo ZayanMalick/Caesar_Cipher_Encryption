@@ -15,7 +15,7 @@ art.py: Contains ASCII art used to display the logo.
 Installation:
 
 1. Clone the repository:
-    git clone https://github.com/yZayanMalick/Caesar_Cipher_Encryption.git
+    git clone https://github.com/ZayanMalick/Caesar_Cipher_Encryption.git
 
 2. Navigate to the project directory:
     cd Caesar_Cipher_Encryption
